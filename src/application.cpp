@@ -140,7 +140,7 @@ application::~application()
 void application::init_event()
 {
     Add_Particles(10);
-    cout << "CAMERA CONTROLS: \n  LMB: Rotate \n  MMB: Move \n  RMB: Zoom" << endl;
+    cout << "MOUSE CONTROLS: \n  LMB: Rotate \n  MMB: Move \n  RMB: Zoom" << endl;
     cout << "KEYBOARD CONTROLS: \n";
     cout << "  'p': Pause simulation\n";
     cout << "  'v': Toggle draw volcano\n";
