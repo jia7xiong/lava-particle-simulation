@@ -2,25 +2,25 @@
 
 # Lava Particle Simulation
 This OpenGL program uses animated particles to simulate  the appearance and motion of lava special effects.
+<p align="center">
+<img src="https://github.com/jia7xiong/lava-particle-simulation/blob/master/assets/lava.gif" width="480" height="380" />
+ </p>
 
 ## Background
 <p align="center">
 <img src="assets/pexels-clive-kim-4220967.jpg" width="200"/>
 </p>
 Particle simulation is commonly used in the field of special effects, such as sparks and explosions. Far beyond this domain, fluids, fire, water, smoke, cloth, and even physical character animation has been done through a particle representation. It is no only very useful, but one of the simplest mechanical systems for beginners to implement.
-<p align="center">
-<img src="https://github.com/xiongjia000777/lava-particle-simulation/blob/master/assets/lava.gif" width="480" height="380" />
- </p>
  
 ## Install
 This project is tested on MacOS Catalina 10.15.6 and Ubuntu 16.04 LTS. 
 ```sh
-$ git clone https://github.com/xiongjia000777/lava-particle-simulation.git
+$ git clone https://github.com/jia7xiong/lava-particle-simulation.git
 $ cd lava-particle-simulation
 $ make all
 ```
 
- ## Usage
+## Usage
 ### Run
  ```sh
  $ ./particle  
