@@ -30,7 +30,7 @@ void gl_viewer::init(int argc, char *argv[], int width, int height)
     glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE | (use_depth_buffer?GLUT_DEPTH:0));
 
     glutInitWindowSize(width, height);
-    glutCreateWindow("OGL 3D Viewer");
+    glutCreateWindow("Lava Particle Simulation");
 
     // called when Glut needs to display
     glutDisplayFunc(&gl_viewer::glut_display_event_wrapper);

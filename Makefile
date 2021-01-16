@@ -2,7 +2,7 @@
 
 CXX = g++
 CXXFLAGS = -Wall -g -O3
-INCLUDES := -Iinclude
+INCLUDES := -Iinclude -Iassets
 LIBS  = -lGL -lGLU -lglut -lpng
 TARGET = particle
 

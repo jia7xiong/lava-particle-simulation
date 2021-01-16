@@ -143,7 +143,8 @@ void application::init_event()
     cout << "CAMERA CONTROLS: \n  LMB: Rotate \n  MMB: Move \n  RMB: Zoom" << endl;
     cout << "KEYBOARD CONTROLS: \n";
     cout << "  'p': Pause simulation\n";
-    cout << "  'v': Toggle draw volcano" << endl;
+    cout << "  'v': Toggle draw volcano\n";
+    cout << "  'q': Exit" << endl;
 
     const GLfloat ambient[] = { 0.0, 0.0, 0.0, 1.0 };
     const GLfloat diffuse[] = { 1.0, 1.0, 1.0, 1.0 };
