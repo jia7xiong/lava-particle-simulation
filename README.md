@@ -6,10 +6,11 @@ This OpenGL program uses animated particles to simulate  the appearance and moti
 ## Background
 <p align="center">
 <img src="assets/pexels-clive-kim-4220967.jpg" width="200"/>
-<p>
+</p>
 Particle simulation is commonly used in the field of special effects, such as sparks and explosions. Far beyond this domain, fluids, fire, water, smoke, cloth, and even physical character animation has been done through a particle representation. It is no only very useful, but one of the simplest mechanical systems for beginners to implement.
-
-![](https://github.com/xiongjia000777/lava-particle-simulation/tree/master/assets/lava.gif)
+<p align="center">
+<img src="https://github.com/xiongjia000777/lava-particle-simulation/blob/master/assets/lava.gif" width="480" height="380" />
+ </p>
  
 ## Install
 This project is tested on MacOS Catalina 10.15.6 and Ubuntu 16.04 LTS. 
